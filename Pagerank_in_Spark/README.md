@@ -30,6 +30,12 @@
 	* 6 m4.large machines (1 master and 5 workers)
 	* 11 m4.large machines (1 master and 10 workers)
 
+# File Structure 
+
+* bz2WikiParser is a SAX-XML parser program to keep relevant links from a Wikipedia page.
+
+* pagerank is the actual implementation of Pagerank in Spark.
+
 * I wrote a brief report about my findings in report.odt.
 
 ## Author
