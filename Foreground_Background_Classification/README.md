@@ -44,7 +44,7 @@ human expert would look for bright pixels forming a line.
 
 * classifier is the actual implementation of foreground-background classification in Spark.
 
-* I wrote a brief report about my findings in report.odt.
+* I wrote a brief report about my findings in report.pdf.
 
 ## Author
 * **Shubham Deb**
